@@ -10,7 +10,7 @@ namespace c_
             Console.WriteLine("Hello, Csharp!");
 
             // Console.Beep - Beep sound on Console
-            Console.Beep(); //
+            Console.Beep();
 
             // Wait before closing
             Console.ReadKey();
